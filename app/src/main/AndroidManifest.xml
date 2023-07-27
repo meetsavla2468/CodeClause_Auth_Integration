@@ -54,5 +54,4 @@
             android:value="2" />
     </application>
     <uses-permission android:name="android.permission.INTERNET"/>
-
 </manifest>
